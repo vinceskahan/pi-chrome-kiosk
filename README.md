@@ -31,4 +31,3 @@ sudo apt purge piwiz -y
 * reboot
 
 Note - on firstboot the os will run the firstboot wizard for setting up the usual things, and there's little way around that unless you removed 'piwiz' in the optional step above.  FWIW - I configure my pi with ansible and do all the normal firstboot things scripted via ansible, so I remove the wizard to get it out of my way.
-# pi-chrome-kiosk
