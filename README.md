@@ -23,6 +23,7 @@ Image the SD card:
 
 At this point you can boot the pi:
 
+* put the SD card into the pi and power it on
 * log in as the default user 'pi' with the default os password of 'raspberry'
 * when prompted, change your default password to something non-trivial that you can remember
 * turn off run `sudo raspi-config` and turn screen blanking off in 'display'
