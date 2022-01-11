@@ -17,9 +17,9 @@ Image the SD card:
 
 * install Raspbian 'full' version to get the desktop with gui.  I use Balena Etcher on a Mac to image the SD card.
 * enable remote ssh access to your pi
-** eject the SD card and put it back into your host that you imaged it on
-** simply 'touch' a file named 'ssh' in the /boot directory of the SD card you imaged
-** eject the SD card
+    * eject the SD card and put it back into your host that you imaged it on
+    * simply 'touch' a file named 'ssh' in the /boot directory of the SD card you imaged
+    * eject the SD card
 
 At this point you can boot the pi:
 
