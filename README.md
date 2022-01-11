@@ -47,6 +47,8 @@ At this point you can boot the pi:
 
 ```
 
+Take the final reboot and test your installation
+
 * sudo reboot
 
 At this point the pi should reboot and run the Chromium browser automatically.
