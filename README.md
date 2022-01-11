@@ -28,6 +28,7 @@ At this point you can boot the pi:
 * when prompted, change your default password to something non-trivial that you can remember
 * turn off run `sudo raspi-config` and turn screen blanking off in 'display'
 * remove the firstboot wizard by running `sudo apt purge piwiz -y`
+    * if you used a monitor/keyboard/mouse rather than ssh to log in, you'll have to go through the wizard
 * edit `etc/xdg/lxsession/LXDE-pi/autostart` with your editor of choice.  Use sudo.
 
 ```
